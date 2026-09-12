@@ -1,0 +1,3 @@
+# openmsx-ps4
+
+Getting OpenMSX to run on the PS4 was, as Linus Torvalds would say, a debug session from hell... available soon...
