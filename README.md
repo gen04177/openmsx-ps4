@@ -1,3 +1,7 @@
 # openmsx-ps4
 
-Getting OpenMSX to run on the PS4 was, as Linus Torvalds would say, a debug session from hell... available soon...
+A port of [openMSX](https://openmsx.org/) to the PS4.
+
+## Credits + Special Thanks
+
+- [openMSX](https://openmsx.org/) & [OpenOrbis](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain) Team.
